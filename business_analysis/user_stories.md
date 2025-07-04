@@ -1,4 +1,4 @@
-CCI User stories as at 04072025
+CCI GUARDIANS User Stories
 
 | US \# | Product Element | Applicable Persona “As a” | Feature/Function “I want” | Enablement Statement “So that” |
 | :---- | :---- | :---- | :---- | :---- |
