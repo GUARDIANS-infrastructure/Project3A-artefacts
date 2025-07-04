@@ -35,3 +35,20 @@ These are draft user stories for the human omics research data infrastructure un
 | US20 | Statistics |  | Get number of patients enrolled in each study |  |
 
 
+## Glossary
+| Authorized | Granted conditional permission to use a resource (data or compute) |
+| :---- | :---- |
+| **Clinical research coordinator** | A Clinical Research Coordinator (CRC) manages and conducts the day-to-day activities of a clinical trial. |
+| **Compute resource**  | For example: an analysis platform, managed workflow service, or general-purpose compute environment. These resources may be distinguished by: in-theory unbounded resource requirements of single-user jobs, and/or non-linear marginal cost to supply additional demand. For example, an online catalog service is not a compute resource. |
+| **Compute resource provider** | Provider or administrator of a compute resource. Whether on-prem or in the cloud, ultimately they foot the bill — which may or may not be passed on to users. |
+| **Data custodian** | A role responsible for one or more aspects of safe custody, transport and storage of data, and implementation of business rules and/or the technical environment to control access. Job titles with some data custodian responsibilities may include system administrator, database administrator, dev/ops or data engineer. |
+| **Data steward** | A role responsible for ensuring data quality and fitness for purpose of the organization's data assets, and for implementation of governance. They ensure data quality, accuracy, and adherence to business rules and policies. |
+| **Data owner** | The legal person, agency, or body that has authority and is accountable for their organisation’s data and may delegate responsibilities to a Data Steward. They have the authority to make decisions about data usage, access, and governance. |
+| **Data user** | An individual or group that accesses and uses data for various purposes, such as research. |
+| **General-purpose compute environment** | e.g. HPC, low-level cloud compute services e.g. AWS EC2, Batch |
+| **Managed workflow service** | e.g. Seqera, Terra |
+| **Researcher** | A (potential) consumer of the data and/or compute resources available in the ecoystem |
+
+---
+
+
