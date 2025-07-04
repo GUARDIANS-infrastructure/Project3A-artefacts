@@ -9,7 +9,7 @@ These are draft user stories for the human omics research data infrastructure un
 
 * This is a living document to be updated as more discovery comes to light.
 
-* We’ve taken a maximalist interpretation of the concept of ‘user’: as someone that interacts with the system in some capacity. Importantly, this includes the design, development, and operation of systems as well as ‘consumer-level’ interactions.
+* We plan to take a maximalist interpretation of the concept of ‘user’: as someone that interacts with the system in some capacity. Importantly, this includes the design, development, and operation of systems as well as ‘consumer-level’ interactions.
 
 | US \# | Product Element | Applicable Persona “As a” | Feature/Function “I want” | Enablement Statement “So that” |
 | :---- | :---- | :---- | :---- | :---- |
