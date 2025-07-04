@@ -35,7 +35,7 @@ These are draft user stories for the human omics research data infrastructure un
 | US20 | Statistics |  | Get number of patients enrolled in each study |  |
 
 
-## Glossary
+## Glossary (this needs updating to include CCI roles and check it against GA4GH DSIP)
 | Authorized | Granted conditional permission to use a resource (data or compute) |
 | :---- | :---- |
 | **Clinical research coordinator** | A Clinical Research Coordinator (CRC) manages and conducts the day-to-day activities of a clinical trial. |
