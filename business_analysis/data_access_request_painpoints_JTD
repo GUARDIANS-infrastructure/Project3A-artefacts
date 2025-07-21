@@ -1,0 +1,14 @@
+| ID   | Category           | Pain Point                                                                                                                                            |
+| ---- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PP01 | Workflow           | Applications are manually tracked via spreadsheets, increasing the risk of errors or lost data.                                                       |
+| PP02 | Workflow           | Forms are Word documents; applicants often miss required fields, leading to delays and back-and-forth communication.                                  |
+| PP03 | Workflow           | Applicants can lock and return forms in ways that prevent internal teams from executing agreements (e.g., due to incompatible e-signature workflows). |
+| PP04 | Workflow           | The review process spans multiple Excel files and reviewers, making it difficult to consolidate feedback for meetings.                                |
+| PP05 | Communication      | Communication primarily happens through email, which causes delays, confusion, and lost threads.                                                      |
+| PP06 | Communication      | It’s hard to track what information was shared with whom and when due to scattered email communication.                                               |
+| PP07 | Communication      | Applicants' messages can get lost in inboxes, especially when threads become long or span teams.                                                      |
+| PP08 | Decision Tracking  | There’s no standardized way to log who made decisions or why, leading to poor audit trails.                                                           |
+| PP09 | Reporting          | Annual reporting is manual and time-consuming, requiring piecing together emails, forms, and spreadsheets.                                            |
+| PP10 | Reporting          | No quick way to answer simple metrics like number of requests received or pending in a given time frame.                                              |
+| PP11 | Process Continuity | When team members are away, the lack of structured records makes it hard to pick up or continue their work.                                           |
+| PP12 | Workflow Confusion | Too many different forms and flows exist depending on request type (EGA, Sample, Internal), causing confusion.                                        |
