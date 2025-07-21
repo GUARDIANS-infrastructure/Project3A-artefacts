@@ -1,5 +1,5 @@
-**Data access request flow pain points and Jobs to be done (JBD).
-**
+**Data access request flow pain points and Jobs to be done (JBD).**
+
 This document captures key insights from internal research sessions focused on improving the data access request process. We interviewed stakeholders and reviewed the end-to-end workflow to understand pain points, communication breakdowns, and reporting challenges. This summary is intended for designers, developers, researchers, and contributors working on streamlining this workflow.
 
 These findings help surface critical jobs to be done and user needs that should inform product decisions, feature prioritization, and system improvements. Use this as a foundation for designing and building tools that make the request process more transparent, efficient, and reliable for all users involved.
